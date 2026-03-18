@@ -1,15 +1,24 @@
-# CTRLX Project 🚀
+# CTRLX 🚀
 
-This is a web-based project built using Vite and modern frontend tools.
+## 📌 Description
+CTRLX is a web-based application designed to [your purpose].
 
-## Features
-- Interactive UI (in progress)
-- Modular structure
-- Ready for development
+## 🎯 Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-## Tech Stack
+## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
-- Vite
+- React (if used)
+- Node.js (if used)
 
-## Status
-Project setup completed. UI development in progress.# CTRLX
+## ▶️ How to Run
+npm install  
+npm run dev  
+
+## 📸 Output
+(Add screenshot later)
+
+## 👩‍💻 Author
+Keerthika S
